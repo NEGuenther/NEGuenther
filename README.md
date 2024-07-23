@@ -11,4 +11,4 @@
 ### 🚀 Apaixonado por tecnologia e sempre em busca de novos desafios. Adoro aprender e colaborar em projetos inovadores. Vamos construir algo incrível juntos!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEGuenther&show_icons=true&theme=tokyonight)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEGuenther)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEGuenther&layout=compact)
