@@ -13,6 +13,7 @@
 ### Banco de Dados:
 - **MySQL** - Gerenciamento e otimização de bancos de dados relacionais.
 - **PL/SQL** - Experiência no desenvolvimento de stored procedures, triggers e funções para automação e otimização de processos no banco de dados Oracle.
+- **Oracle** - Utilização do Oracle Database para gerenciamento de dados, além da criação de consultas e otimização de performance.
 
 ### Ferramentas e Frameworks:
 - **Node.js** - Utilizado para backend.
