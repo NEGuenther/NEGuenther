@@ -18,6 +18,9 @@
 ### Ferramentas e Frameworks:
 - **Node.js** - Utilizado para backend.
 - **React** - Framework utilizado no desenvolvimento de interfaces modernas e escaláveis.
+  
+### Ferramentas de Análise de Dados:
+**Power BI** - Criação de relatórios interativos e dashboards para visualização de dados, ajudando a transformar dados em insights acionáveis.
 
 ## 📊 Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEGuenther&show_icons=true&theme=tokyonight)
