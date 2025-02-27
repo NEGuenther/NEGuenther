@@ -1,12 +1,22 @@
 # Hi There👋 
 ## Eu sou Nickolas Guenther.
 
-### 💻 Desenvolvedor com experiência em:
-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="html-logo" style="border-radius: 8px;" />
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="100" style="border-radius: 10px;" />
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" style="border-radius: 8px;" />
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="html-logo" style="border-radius: 8px;" />
-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="html-logo" style="border-radius: 8px;" />
+## 🚀 Minhas Tecnologias
+
+### Linguagens de Programação:
+- **Java** - Experiência no desenvolvimento de aplicações backend feitas em aulas na FURB.
+- **JavaScript** - Utilizo para construir interfaces interativas no front-end e também para scripts no backend com Node.js.
+
+### Desenvolvimento Web:
+- **HTML5** e **CSS3** - Construção de websites responsivos e interativos.
+
+### Banco de Dados:
+- **MySQL** - Gerenciamento e otimização de bancos de dados relacionais.
+- **PL/SQL** - Experiência no desenvolvimento de stored procedures, triggers e funções para automação e otimização de processos no banco de dados Oracle.
+
+### Ferramentas e Frameworks:
+- **Node.js** - Utilizado para backend.
+- **React** - Framework utilizado no desenvolvimento de interfaces modernas e escaláveis.
 
 ## 📊 Estatísticas do GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEGuenther&show_icons=true&theme=tokyonight)
@@ -16,8 +26,6 @@
 ## 📅 Contribuições
 ![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=NEGuenther&theme=tokyonight)
 
-## 🌍 Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin/)
-- [Twitter](https://twitter.com/seutwitter)
-- [Email](mailto:seuemail@dominio.com)
 
+## 🌍 Conecte-se comigo
+- [LinkedIn]([https://www.linkedin.com/in/seulinkedin/](https://www.linkedin.com/in/nickolas-guenther/))
