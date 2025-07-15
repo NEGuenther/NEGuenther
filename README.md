@@ -4,11 +4,12 @@
 ## 🚀 Minhas Tecnologias
 
 ### Linguagens de Programação:
-- **Java** - Experiência no desenvolvimento de aplicações backend feitas em aulas na FURB.
+- **Java** - Experiência no desenvolvimento de aplicações backend feitas em ambiente acadêmico.
+- **Python** - Experiência no desenvolvimento de aplicações backend feitas em ambiente acadêmico.
 - **JavaScript** - Utilizo para construir interfaces interativas no front-end e também para scripts no backend com Node.js.
 
 ### Desenvolvimento Web:
-- **HTML5** e **CSS3** - Construção de websites responsivos e interativos.
+- **HTML5**, **CSS3** e **JavaScript** - Construção de websites responsivos e interativos.
 
 ### Banco de Dados:
 - **MySQL** - Gerenciamento e otimização de bancos de dados relacionais.
